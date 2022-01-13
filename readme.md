@@ -1,6 +1,6 @@
 # Class Roster Project
 
-## Follow this sequence in order to correctly fork and clone this repository:
+## Contributed to by Marisol Rodriguez
 
 1. Fork the repository via the fork button at the top left of the repository page
 2. Click the code button *making sure* that you're using your own personal forked link.
